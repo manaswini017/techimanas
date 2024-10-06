@@ -1,2 +1,0 @@
-# techimanas
-beginner
